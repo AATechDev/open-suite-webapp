@@ -16,12 +16,12 @@
 
 - [ ] New Customer Account Setup
 - [ ] New Customer Onboarding Checklist
-  - domain
-  - droplet spec
-  - software spec (versions and modification)
-  - app config setup (company name, logo, homepage url ... etc)
-  - data import ( optional )
-- [ ] New Customer Onboarding Checklist
+  - [ ] domain setup flow
+  - [ ] network setup flow ( firewall, SSL )
+  - [ ] droplet spec ( min 4GB RAM )
+  - [ ] software spec (versions and modification)
+  - [ ] app config setup (company name, logo, homepage url ... etc)
+  - [ ] data import ( optional )
 
 # Axelor Open Suite
 
