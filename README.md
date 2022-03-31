@@ -23,6 +23,12 @@
   - [ ] app config setup (company name, logo, homepage url ... etc)
   - [ ] data import ( optional )
 
+# Start Scrip
+
+```
+    docker run -it -v /root/axelor-volume/lib/postgresql:/var/lib/postgresql -p 80:80 aatech/aio-erp
+```
+
 # Axelor Open Suite
 
 Axelor Open Suite reduces the complexity and improve responsiveness of business processes. Thanks to its modularity, you can start with few features and then activate other modules when needed.
